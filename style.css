@@ -1,0 +1,28 @@
+h1 {
+    color: green;
+    font-size: 36px;
+}
+
+a {
+    font-size: 24px;
+    background-color: plum;
+    color: purple;
+}
+
+.d {
+    text-align: center;
+}
+
+.d.head {
+    font-size: 30px;
+    color: purple;
+}
+
+.d.p {
+    font-size: 24px;
+    background-color: turquoise;
+}
+
+ol {
+    color: blue;
+}
