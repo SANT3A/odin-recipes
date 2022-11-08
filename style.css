@@ -13,6 +13,10 @@ a {
     text-align: center;
 }
 
+h2 {
+    font-family: sans-serif;
+}
+
 .d.head {
     font-size: 30px;
     color: purple;
